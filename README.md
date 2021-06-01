@@ -1,5 +1,6 @@
 # DS3-Browser_streaming
-Multiclient MJPEG streaming to a browser, with motion detection preprocessing
+Multiclient MJPEG streaming to a browser, with motion detection preprocessing.
+
 Primarly used:
   Flask
   CSS
