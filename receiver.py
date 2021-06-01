@@ -7,7 +7,7 @@ from processor import motion_detect
 
 # take MJPEG stream and preprocess it
 
-SOURCE_URL = "http://vroomshoopwebcam.mine.nu/axis-cgi/mjpg/video.cgi"
+SOURCE_URL = "your link to video source"
 
 
 
