@@ -2,7 +2,7 @@
 Multiclient MJPEG streaming to a browser, with motion detection preprocessing.
 
 Primarly used:
-  Flask
-  CSS
-  OpenCV
+  Flask,
+  CSS,
+  OpenCV,
   REST base
